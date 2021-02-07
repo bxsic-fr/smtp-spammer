@@ -1,0 +1,9 @@
+{
+    "host": "smtp.google.com",
+    "user": "kenoor",
+    "password": "password@2021",
+    "sender": "'Kenoor' <kenoor@protonmail.com>",
+    "subject": "My favorite BicMac",
+    "description": "You have to eat that...",
+    "delay": 3000 
+}
